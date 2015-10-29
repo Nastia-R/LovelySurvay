@@ -1,3 +1,3 @@
 # LovelySurvay
-Test project for "SPALAH" school.
+Test project for making online survays.
 Based on Materialize design.
