@@ -1,0 +1,25 @@
+#panel {
+    padding: 1% 3%;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #fafafa;
+    font-size: 14px;
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    text-align: right;
+    background: #BC3658;
+    -webkit-box-shadow: 1px 0px 0px 1px rgba(120,114,120,1);
+    -moz-box-shadow: 1px 0px 0px 1px rgba(120,114,120,1);
+    box-shadow: 1px 0px 0px 1px rgba(120,114,120,1);
+}
+.panel_link {
+    text-decoration: none;
+    color: #E3EAD3;
+    opacity: 0.9;
+}
+
+.panel_link:hover {
+    color: #fafafa;
+}
+
+.panel_link:active {
+    color: #773344;
+}
